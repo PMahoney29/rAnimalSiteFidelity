@@ -10,3 +10,5 @@ I plan to convert the functions contained herein into an R package at some point
 near future.  Stay tuned!!
 
 Citation: TBD
+
+[![DOI](https://zenodo.org/badge/24220/PMahoney29/rAnimalSiteFidelity.svg)](https://zenodo.org/badge/latestdoi/24220/PMahoney29/rAnimalSiteFidelity)
